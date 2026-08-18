@@ -1,0 +1,11 @@
+Product_ID,Product_Name,Rating,Sentiment_Score,Price,Rec_Probability,Season,Geo_Location,Holiday
+P101,Winter Down Jacket,4.8,0.85,120.0,0.92,Winter,Mountains,Yes
+P102,Beach Shorts,4.2,0.65,25.0,0.78,Summer,Coastal,No
+P103,Hiking Boots,4.6,0.80,95.0,0.88,Winter,Mountains,No
+P104,All-Weather Tent,4.5,0.75,150.0,0.85,Monsoon,Plains,Yes
+P105,Casual T-Shirt,3.9,0.50,15.0,0.60,Summer,Plains,No
+P106,Thermal Innerwear,4.7,0.88,45.0,0.90,Winter,Mountains,Yes
+P107,Sun Hat,4.1,0.60,18.0,0.72,Summer,Coastal,Yes
+P108,Raincoat Pro,4.4,0.72,60.0,0.82,Monsoon,Plains,No
+P109,Snow Goggles,4.9,0.91,110.0,0.95,Winter,Mountains,Yes
+P110,Trekking Backpack,4.6,0.83,85.0,0.87,Monsoon,Mountains,No
